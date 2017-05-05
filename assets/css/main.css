@@ -6,6 +6,10 @@
 
 .main-container{
     width: 80%;
+    margin: auto;
+    padding: 0.5rem;
+    box-shadow: 4px 4px 8px;
+    border-radius: 0.5rem;
 }
 
 .yellow{
@@ -22,10 +26,11 @@
 
 .big-box{
     border: 1px solid;
+    margin: 0.8rem;
 }
 
 .small-box{
-    width: 18vw;
+    width: 25%;
     height: 9vw;
 }
 
