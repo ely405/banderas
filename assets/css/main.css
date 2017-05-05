@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    width: 80%;
+}
+
+.yellow{
+    background-color: #FFFF00; 
+}
+
+.blue{
+    background-color: #0000BA;
+}
+
+.red{
+    background-color: #DC0000;
+}
+
+#second{
+    border: 1px solid;
+    overflow: auto;
+}
+
+#second .small-box{
+    width: 15vw;
+    height: 10vw;
+    float: left;
+}
