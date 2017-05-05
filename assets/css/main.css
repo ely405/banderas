@@ -25,14 +25,18 @@
 }
 
 .small-box{
-    width: 25vw;
-    height: 12vw;
+    width: 18vw;
+    height: 9vw;
 }
 
-#second{
+#second, #third{
     overflow: auto;
 }
 
 #second .small-box{
     float: left;
+}
+
+#third .small-box{
+    float: right;
 }
