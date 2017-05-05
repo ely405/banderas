@@ -9,7 +9,7 @@
 }
 
 .yellow{
-   background-color: #FFFF00; 
+   background-color: #FFFF00;
 }
 
 .blue{
@@ -25,6 +25,14 @@
 }
 
 .small-box{
-    width: 15vw;
-    height: 7.5vw;
+    width: 25vw;
+    height: 12vw;
+}
+
+#second{
+    overflow: auto;
+}
+
+#second .small-box{
+    float: left;
 }
